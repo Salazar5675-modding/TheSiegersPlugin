@@ -1,0 +1,8 @@
+main: net.salazar.siegersplugin.TheSiegersPlugin
+version: 1.0.0-SNAPSHOT
+name: TheSiegersPlugin
+author: Salazar5675
+description: A plugin created for the Siegers minecraft server.
+api-version: 1.21
+
+
